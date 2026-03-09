@@ -39,7 +39,7 @@ export default defineConfig({
            { text: '全局配置', link: '/docs/VitePress/03.全局配置' },
            { text: '主题', link: '/docs/VitePress/04.主题' },
            { text: '插件', link: '/docs/VitePress/05.插件' },
-           { text: '部署网站', link: '/docs/VitePress/06.部署网站' },
+           { text: '自动部署', link: '/docs/VitePress/06.自动部署' },
          ]
         }
       ],
