@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.16",
+    "vitepress-sidebar": "^1.33.1"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress-plugin-codeblocks-fold": "^1.2.35"
+  }
+}
