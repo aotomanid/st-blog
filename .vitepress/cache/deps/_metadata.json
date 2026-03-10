@@ -1,49 +1,49 @@
 {
-  "hash": "6a5582e8",
-  "configHash": "835d9d2f",
-  "lockfileHash": "0c6da6f9",
-  "browserHash": "e3e2b8bb",
+  "hash": "3576f350",
+  "configHash": "861cab42",
+  "lockfileHash": "8934f26a",
+  "browserHash": "9d341b1f",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "6bdfe268",
+      "fileHash": "a12d9fa8",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "f9175347",
+      "fileHash": "82428f1a",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/dist/index.js",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "1aa5c485",
+      "fileHash": "ee3164cd",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../node_modules/@vueuse/integrations/dist/useFocusTrap.js",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "3bfb9195",
+      "fileHash": "702424cc",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "b5c5f30b",
+      "fileHash": "145436d5",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "5bb3bb9a",
+      "fileHash": "ca43f79d",
       "needsInterop": false
     },
     "vitepress-plugin-codeblocks-fold": {
       "src": "../../../node_modules/vitepress-plugin-codeblocks-fold/lib/index.js",
       "file": "vitepress-plugin-codeblocks-fold.js",
-      "fileHash": "8ed074b9",
+      "fileHash": "aef9de3a",
       "needsInterop": false
     }
   },

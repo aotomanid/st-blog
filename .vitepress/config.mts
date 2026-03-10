@@ -48,7 +48,13 @@ export default defineConfig({
          items: [
            { text: '简介', link: '/docs/Tools/VsCode/01.简介' },
            { text: '配置', link: '/docs/Tools/VsCode/02.配置' },
-           { text: '插件', link: '/docs/Tools/VsCode/03.插件' },
+           { text: '插件', 
+             items: [
+               { text: '插件集', link: '/docs/Tools/VsCode/03.插件/01.插件集' },
+               { text: 'clangd', link: '/docs/Tools/VsCode/03.插件/02.clangd' },
+               { text: 'ESP-IDF', link: '/docs/Tools/VsCode/03.插件/03.ESP-IDF' },
+             ]
+            },
          ]
         },
         {text: 'Git', 
